@@ -79,7 +79,7 @@ numpy==1.19.5
     #   torchvision
 oauthlib==3.1.0
     # via requests-oauthlib
-pillow==8.2.0
+pillow==8.3.2
     # via torchvision
 protobuf==3.15.7
     # via tensorboard
